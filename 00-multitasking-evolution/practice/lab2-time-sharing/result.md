@@ -4,8 +4,7 @@
 
 บันทึกค่า CPU utilization และ overhead
 
-![Uploading image.png…]()
-
+<img width="539" height="43" alt="image" src="https://github.com/user-attachments/assets/f2a884d1-fa6a-4afa-a551-6a750668e18d" />
 
 2. การทดสอบ Time Slice ต่างๆ
 

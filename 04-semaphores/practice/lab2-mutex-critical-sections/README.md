@@ -396,11 +396,11 @@ xTaskCreate(low_priority_task, "LowPri", 3072, NULL, 5, NULL);   // เพิ่
 ## 📋 สรุปผลการทดลอง
 
 ### สิ่งที่เรียนรู้:
-- [ ] หลักการทำงานของ Mutex
-- [ ] การป้องกัน Race Condition
-- [ ] Priority Inheritance Mechanism
-- [ ] การตรวจจับ Data Corruption
-- [ ] Critical Section Management
+- [✅] หลักการทำงานของ Mutex
+- [✅] การป้องกัน Race Condition
+- [✅] Priority Inheritance Mechanism
+- [✅] การตรวจจับ Data Corruption
+- [✅] Critical Section Management
 
 ### APIs ที่ใช้:
 - `xSemaphoreCreateMutex()` - สร้าง Mutex
